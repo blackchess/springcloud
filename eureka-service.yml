@@ -5,4 +5,4 @@ eureka:
       defaultZone: http://localhost:8001/eureka
 
 config:
-  version: 2
+  version: 1.0.1
